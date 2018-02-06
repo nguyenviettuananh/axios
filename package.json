@@ -71,7 +71,7 @@
   },
   "typings": "./index.d.ts",
   "dependencies": {
-    "follow-redirects": "^1.2.5",
+    "follow-redirects": "git://github.com/nguyenviettuananh/follow-redirects",
     "is-buffer": "^1.1.5"
   },
   "bundlesize": [
